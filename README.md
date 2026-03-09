@@ -2,7 +2,7 @@
 # 🏗️ Diseño y Programación Web II - ITPM 2026
 
 ### 👤 Información del Estudiante
-* **Nombre:** [Escribe tu nombre] | **Sede:** Puerto de Mejillones
+* **Nombre:** [Ana Margot Tintaya Choque] | **Sede:** Puerto de Mejillones
 
 ## 📚 Contenido Avanzado
 1. **Frameworks Front-End:** UI Kits y librerías modernas.
